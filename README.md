@@ -1,4 +1,4 @@
-### Hi there 👋
+### <center>Hi there 👋</center>
 
 <!--
 **Vrush-cmd/Vrush-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
