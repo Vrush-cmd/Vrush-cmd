@@ -1,7 +1,7 @@
 ###
 <div id="header" align="center">
   <h1>💻This is Vrushali's Profile💻</h1>
-  <img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif" width="300" />
+  <img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif" width="700" />
   </div>
  
  ---
