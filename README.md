@@ -51,9 +51,16 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vrush-cmd&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrush-cmd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### Profile Views:
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=Vrush-cmd&color=red)
+
+---
+
+
+
 
 
 
