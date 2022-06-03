@@ -1,7 +1,7 @@
 ###
 <div id="header" align="center">
   <h1>💻This is Vrushali's Profile💻</h1>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4502902-DevOps-engineer-animation&psig=AOvVaw2cMSS8094Eb-RwX2Xda8P5&ust=1654352215206000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCa4ra8kfgCFQAAAAAdAAAAABAD" width="100" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   </div>
   
 
