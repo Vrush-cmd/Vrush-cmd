@@ -3,6 +3,12 @@
   <h1>💻This is Vrushali's Profile💻</h1>
   <img src="dev-ops-gif-dr.gif" width="300" />
   </div>
+ 
+ ---
+ <h3 align="center">😁If you can dream it, you can do it.😁</h3>
+
+### :woman_technologist: About Me :
+
   
 
 <!--
