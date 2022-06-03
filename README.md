@@ -1,7 +1,7 @@
 ###
 <div id="header" align="center">
   <h1>💻This is Vrushali's Profile💻</h1>
-  <img src="dev-ops-gif-dr.gif" width="200" />
+  <img src="dev-ops-gif-dr.gif" width="300" />
   </div>
   
 
