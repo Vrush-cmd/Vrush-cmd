@@ -8,7 +8,7 @@
  <h3 align="center">😁If you can dream it, you can do it.😁</h3>
 
 ### :woman_technologist: About Me :
-- :telescope: I’m looking for the Role of Cloud & DevOps Engineer
+- :telescope: I’m looking for the Role of Software Engineer
 - 💭: I write articles and blogs on technical stuffs on Linkedin and Medium
 - 🔎: I'm looking forward to enhance my skills and knowledge by working in challenging work environment and utilize it.
 - :zap: In my free time, I solve coding problems on GeeksforGeeks and read tech articles. 
